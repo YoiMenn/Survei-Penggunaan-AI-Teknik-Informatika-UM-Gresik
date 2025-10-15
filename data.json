@@ -1,0 +1,2287 @@
+{
+  "metadata": {
+    "judul": "Analisis Penggunaan AI Mahasiswa Teknik Informatika UM Gresik",
+    "totalResponden": 66,
+    "tanggalSurvei": "Oktober 2025",
+    "institusi": "Universitas Muhammadiyah Gresik"
+  },
+  "responden": [
+    {
+      "timestamp": "2025-10-15 04:28:58",
+      "email": "okesipp22@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Microsoft Copilot",
+        "Claude AI"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 2,
+      "etika_penggunaan": 2,
+      "kekhawatiran": [
+        "Privasi Data"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Debugging Manual"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 04:48:48",
+      "email": "aisyahgrisseeta@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT"
+      ],
+      "mata_kuliah": [
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 04:50:02",
+      "email": "andhkadhka101@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Deepseek"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Kecerdasan Buatan",
+        "Pemrograman Web"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 04:50:39",
+      "email": "ndwi78949@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Pemrograman Web"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 4,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Presentasi & Komunikasi",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 04:50:49",
+      "email": "vigarpratama30@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Tidak Ada Kekhawatiran"
+      ],
+      "skill_penting": [
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 04:50:58",
+      "email": "dimascandra1438@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Github Copilot"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 5,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 04:52:06",
+      "email": "citrapratiwi312@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Github Copilot"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 5,
+      "debugging_code": 4,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 04:53:06",
+      "email": "amelhasana8@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data",
+        ""
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 04:56:30",
+      "email": "ariffathurrahman58@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Claude AI",
+        "Deepseek"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Kecerdasan Buatan",
+        "Pemrograman Web"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 3,
+      "kreativitas": 5,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 04:59:00",
+      "email": "muhammadtegarrramdhani@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Deepseek",
+        "black box"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data",
+        "Basis Data"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 4,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 05:04:17",
+      "email": "azelafif84@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 2,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 05:04:30",
+      "email": "muhfebri2022@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 4,
+      "kreativitas": 5,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 05:05:01",
+      "email": "kocoltes@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Github Copilot",
+        "Blackbox Ai"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 5,
+      "debugging_code": 3,
+      "kreativitas": 2,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 05:08:37",
+      "email": "lihdaffadhili@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Github Copilot",
+        "Claude AI",
+        "Deepseek",
+        "Midjourney",
+        "Stablediffusion"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Jaringan Komputer",
+        "Pemrograman Web",
+        "Matematika Diskrit",
+        "Pemrograman Game"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 5,
+      "kreativitas": 5,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 05:09:02",
+      "email": "marcelino432007@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Perplexity AI",
+        "Blackbox AI",
+        "Julius AI"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Etika Profesi",
+        "Pemrograman Game"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan",
+        "Penggunaan Yang Berlebihan tidak dianjurkan",
+        "karena bisa berdampak pada sistem pola pikir (mindset)",
+        "karena bisa jadi peluang untuk kebocoran basis data di dalamnya."
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 05:09:31",
+      "email": "agliapeseg@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 4,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 05:13:48",
+      "email": "h4f4rs@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Claude AI"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 5,
+      "debugging_code": 3,
+      "kreativitas": 4,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 05:13:51",
+      "email": "muhammadfahmihasan33@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Github Copilot",
+        "Deepseek"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "nyari refrensi"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 5,
+      "kreativitas": 5,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 05:17:03",
+      "email": "zakalefthand@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Sekali sehari",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Pemrograman Web",
+        "Matematika Diskrit"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 5,
+      "kreativitas": 5,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 05:17:24",
+      "email": "akmalossas@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Pemrograman Game"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 5,
+      "debugging_code": 2,
+      "kreativitas": 3,
+      "etika_penggunaan": 2,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 05:23:03",
+      "email": "endhitanazwa@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Claude AI"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Jaringan Komputer",
+        "Kecerdasan Buatan",
+        "Pemrograman Web",
+        "Matematika Diskrit",
+        "Etika Profesi",
+        "Pemrograman Game"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 4,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 05:25:02",
+      "email": "alamgrs32@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Game"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 4,
+      "kreativitas": 2,
+      "etika_penggunaan": 2,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 05:27:08",
+      "email": "afafamaniyatululya@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 5,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "perplexity"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Web"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 5,
+      "debugging_code": 4,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 05:28:38",
+      "email": "winnie.nadya05@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Claude AI"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Matematika Diskrit"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 05:29:43",
+      "email": "ikbarwidyatmaka@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Jarang",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Github Copilot",
+        "Claude AI",
+        "Deepseek"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Jaringan Komputer",
+        ""
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 3,
+      "debugging_code": 4,
+      "kreativitas": 4,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 05:37:58",
+      "email": "febrywulandari2717@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Claude AI"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 05:38:14",
+      "email": "anakberuntung58@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "Google Gemini",
+        "Claude AI"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 4,
+      "kreativitas": 3,
+      "etika_penggunaan": 2,
+      "kekhawatiran": [
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 05:44:11",
+      "email": "salwanadia416@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Jarang",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Github Copilot",
+        "Claude AI",
+        "Deepseek",
+        "Balck box"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Kecerdasan Buatan",
+        "Pemrograman Web",
+        "Matematika Diskrit",
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 2,
+      "kreativitas": 3,
+      "etika_penggunaan": 2,
+      "kekhawatiran": [
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 05:45:01",
+      "email": "erjirisau@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Web"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 5,
+      "kreativitas": 3,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Akurasi Informasi"
+      ],
+      "skill_penting": [
+        "Logical Thinking"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 05:47:51",
+      "email": "kevinbayu751@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Sekali sehari",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "Github Copilot"
+      ],
+      "mata_kuliah": [
+        "Matematika Diskrit"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 2,
+      "debugging_code": 3,
+      "kreativitas": 4,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Akurasi Informasi"
+      ],
+      "skill_penting": [
+        "Logical Thinking"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 05:51:46",
+      "email": "rohmahnhidayah@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 3,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Plagiarisme"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 05:58:22",
+      "email": "alux18157@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Deepseek"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 5,
+      "debugging_code": 5,
+      "kreativitas": 3,
+      "etika_penggunaan": 2,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 05:59:12",
+      "email": "formyselfc4ly@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 5,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Github Copilot"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Pemrograman Web",
+        "Mobil eprogremaming"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 2,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 06:02:10",
+      "email": "renaanggrita@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Github Copilot",
+        "Claude AI",
+        "Deepseek",
+        "BlackBox",
+        "PentestGpt"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Jaringan Komputer",
+        "Kecerdasan Buatan",
+        "Pemrograman Web",
+        "Matematika Diskrit",
+        "Pemrograman Game",
+        "Cyber Security"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 4,
+      "kreativitas": 4,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:02:31",
+      "email": "anisasalsa366@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Matematika Diskrit",
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 5,
+      "kreativitas": 5,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:41:30",
+      "email": "kokohhari19@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Jarang",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 5,
+      "kreativitas": 5,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Akurasi Informasi"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:44:06",
+      "email": "depinaputri1223@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 3,
+      "debugging_code": 4,
+      "kreativitas": 2,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:45:12",
+      "email": "gamingzanz5@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Kecerdasan Buatan",
+        "Pemrograman Web",
+        "Matematika Diskrit"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 5,
+      "kreativitas": 4,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:46:52",
+      "email": "riansyahsda2007@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Blackcox ai"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 4,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 06:50:31",
+      "email": "arinamel1524@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 7,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "> 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Web"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 4,
+      "kreativitas": 5,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 06:53:48",
+      "email": "muhammadiilhamm909@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 4,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Akurasi Informasi"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 06:53:56",
+      "email": "riyyjuwai76@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Jarang",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 06:54:22",
+      "email": "m.alfiansyah5567@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Sekali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 5,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan",
+        "Tidak Ada Kekhawatiran"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:54:23",
+      "email": "mbimahayyun@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Sekali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 2,
+      "efisiensi_tugas": 5,
+      "debugging_code": 1,
+      "kreativitas": 1,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan",
+        "Tidak Ada Kekhawatiran"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:56:07",
+      "email": "gandum576@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 7,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Sekali sehari",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 5,
+      "debugging_code": 5,
+      "kreativitas": 5,
+      "etika_penggunaan": 5,
+      "kekhawatiran": [
+        "Plagiarisme"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:57:19",
+      "email": "zkiki3513@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Claude AI",
+        "blackbox ai"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Pemrograman Web",
+        "Matematika Diskrit"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 4,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:57:33",
+      "email": "nrsyoga21@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Matematika Diskrit",
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 5,
+      "debugging_code": 5,
+      "kreativitas": 5,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 06:57:55",
+      "email": "fausanadzim@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Perplexity"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 2,
+      "efisiensi_tugas": 3,
+      "debugging_code": 2,
+      "kreativitas": 2,
+      "etika_penggunaan": 2,
+      "kekhawatiran": [
+        "Plagiarisme"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 06:58:54",
+      "email": "nurubaidillah424@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Sekali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 2,
+      "efisiensi_tugas": 5,
+      "debugging_code": 1,
+      "kreativitas": 2,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan",
+        "Tidak Ada Kekhawatiran"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 07:00:48",
+      "email": "boystillhigh@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Sekali seminggu",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT"
+      ],
+      "mata_kuliah": [
+        "Kecerdasan Buatan",
+        "Pemrograman Web",
+        "Pemrograman Game"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Privasi Data"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 07:03:49",
+      "email": "mmudhofaralam@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Sekali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Midjourney",
+        "Stablediffusion"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Jaringan Komputer",
+        "Kecerdasan Buatan"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 5,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Presentasi & Komunikasi",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 07:16:59",
+      "email": "adprizki@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Sekali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 07:41:31",
+      "email": "pnuraisyah673@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 2,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 3
+    },
+    {
+      "timestamp": "2025-10-15 07:45:52",
+      "email": "idhurxjr@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "> 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Z ai"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Jaringan Komputer",
+        "Kecerdasan Buatan",
+        "Pemrograman Web",
+        "Matematika Diskrit",
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 5,
+      "kreativitas": 4,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 07:50:33",
+      "email": "nurendahkurniawatin22@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT"
+      ],
+      "mata_kuliah": [
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 3,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 07:51:20",
+      "email": "ilmatto030106@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "30 - 60 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 4,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 08:02:24",
+      "email": "rhizkyputri02@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 7,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Deepseek"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Kecerdasan Buatan",
+        "Pemrograman Web"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 08:09:28",
+      "email": "riandwik.77@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Matematika Diskrit",
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 5,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 09:28:43",
+      "email": "beralkama@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Sekali sehari",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot"
+      ],
+      "mata_kuliah": [
+        "Basis Data"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 4,
+      "debugging_code": 5,
+      "kreativitas": 4,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 10:30:56",
+      "email": "tigaserangakai@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 5,
+      "debugging_code": 4,
+      "kreativitas": 4,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 10:44:32",
+      "email": "fmzanuar128@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Deepseek"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Jaringan Komputer",
+        "Kecerdasan Buatan",
+        "Pemrograman Web",
+        "Matematika Diskrit",
+        "Etika Profesi",
+        "Pemrograman Game",
+        "dan lain lain"
+      ],
+      "pemahaman_konsep": 2,
+      "efisiensi_tugas": 5,
+      "debugging_code": 3,
+      "kreativitas": 2,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 11:55:06",
+      "email": "dimasmakhzum@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "> 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Claude AI"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Basis Data",
+        "Pemrograman Web",
+        "Matematika Diskrit",
+        "Etika Profesi"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 5,
+      "kreativitas": 4,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Plagiarisme",
+        "Akurasi Informasi",
+        "Privasi Data",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Debugging Manual",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 11:58:03",
+      "email": "ardhiarahma33@gmail.com",
+      "jenis_kelamin": "Perempuan",
+      "semester": 3,
+      "pengalaman_programming": "Menengah",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "1 - 2 Jam",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 5,
+      "efisiensi_tugas": 4,
+      "debugging_code": 4,
+      "kreativitas": 4,
+      "etika_penggunaan": 4,
+      "kekhawatiran": [
+        "Akurasi Informasi"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 12:58:38",
+      "email": "mohammadabdillahfanani@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali sehari",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Deepseek",
+        "Stablediffusion"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data",
+        "Matematika Diskrit"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi"
+      ],
+      "penting_karir": 4
+    },
+    {
+      "timestamp": "2025-10-15 13:16:33",
+      "email": "dafauwau@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 1,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Beberapa kali seminggu",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Google Gemini"
+      ],
+      "mata_kuliah": [
+        "Kalkulus"
+      ],
+      "pemahaman_konsep": 3,
+      "efisiensi_tugas": 5,
+      "debugging_code": 3,
+      "kreativitas": 3,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Akurasi Informasi",
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis"
+      ],
+      "penting_karir": 5
+    },
+    {
+      "timestamp": "2025-10-15 14:05:14",
+      "email": "andikaeka2020@gmail.com",
+      "jenis_kelamin": "Laki - Laki",
+      "semester": 3,
+      "pengalaman_programming": "Pemula",
+      "frekuensi_penggunaan": "Jarang",
+      "durasi_penggunaan": "< 30 Menit",
+      "tools_ai": [
+        "ChatGPT",
+        "Github Copilot"
+      ],
+      "mata_kuliah": [
+        "Pemrograman Dasar",
+        "Algoritma & Struktur Data"
+      ],
+      "pemahaman_konsep": 4,
+      "efisiensi_tugas": 4,
+      "debugging_code": 3,
+      "kreativitas": 4,
+      "etika_penggunaan": 3,
+      "kekhawatiran": [
+        "Ketergantungan berlebihan"
+      ],
+      "skill_penting": [
+        "Logical Thinking",
+        "Berpikir Kritis",
+        "Presentasi & Komunikasi",
+        "Arsitektur Sistem"
+      ],
+      "penting_karir": 5
+    }
+  ],
+  "kategori_opsi": {
+    "jenis_kelamin": [
+      "Laki-laki",
+      "Perempuan"
+    ],
+    "semester": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "pengalaman_programming": [
+      "Pemula",
+      "Menengah",
+      "Lanjutan"
+    ],
+    "frekuensi_penggunaan": [
+      "Beberapa kali sehari",
+      "Sekali sehari",
+      "Beberapa kali seminggu",
+      "Sekali seminggu",
+      "Jarang"
+    ],
+    "durasi_penggunaan": [
+      "< 30 Menit",
+      "30 - 60 Menit",
+      "1 - 2 Jam",
+      "> 2 Jam"
+    ],
+    "tools_ai": [
+      "ChatGPT",
+      "Google Gemini",
+      "Microsoft Copilot",
+      "GitHub Copilot",
+      "Claude AI",
+      "Deepseek",
+      "Midjourney",
+      "Stable Diffusion",
+      "Perplexity AI",
+      "Blackbox AI",
+      "Julius AI",
+      "TensorFlow/PyTorch",
+      "IBM Watson"
+    ],
+    "mata_kuliah": [
+      "Pemrograman Dasar",
+      "Algoritma & Struktur Data",
+      "Basis Data",
+      "Jaringan Komputer",
+      "Kecerdasan Buatan",
+      "Pemrograman Web",
+      "Matematika Diskrit",
+      "Etika Profesi",
+      "Pemrograman Game",
+      "Cyber Security"
+    ],
+    "kekhawatiran": [
+      "Ketergantungan berlebihan",
+      "Plagiarisme",
+      "Akurasi Informasi",
+      "Privasi Data",
+      "Tidak Ada Kekhawatiran"
+    ],
+    "skill_penting": [
+      "Logical Thinking",
+      "Berpikir Kritis",
+      "Presentasi & Komunikasi",
+      "Debugging Manual",
+      "Arsitektur Sistem"
+    ]
+  }
+}
