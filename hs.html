@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tambahkan ke Home Screen</title>
+
+  <!-- Manifest PWA -->
+  <link rel="manifest" href="data:application/json,{
+    &quot;name&quot;:&quot;Demo PWA&quot;,
+    &quot;short_name&quot;:&quot;Demo&quot;,
+    &quot;start_url&quot;:&quot;.&quot;,
+    &quot;display&quot;:&quot;standalone&quot;,
+    &quot;background_color&quot;:&quot;#ffffff&quot;,
+    &quot;theme_color&quot;:&quot;#4A90E2&quot;,
+    &quot;icons&quot;:[
+      {&quot;src&quot;:&quot;https://via.placeholder.com/192&quot;,&quot;sizes&quot;:&quot;192x192&quot;,&quot;type&quot;:&quot;image/png&quot;},
+      {&quot;src&quot;:&quot;https://via.placeholder.com/512&quot;,&quot;sizes&quot;:&quot;512x512&quot;,&quot;type&quot;:&quot;image/png&quot;}
+    ]
+  }">
+  
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background: #4A90E2;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #357ABD;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>📱 Tambahkan Website Ini ke Home Screen</h2>
+  <button id="addBtn" hidden>Tambahkan ke Home Screen</button>
+
+  <script>
+    let deferredPrompt;
+    const addBtn = document.getElementById('addBtn');
+
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault();
+      deferredPrompt = e;
+      addBtn.hidden = false;
+    });
+
+    addBtn.addEventListener('click', async () => {
+      addBtn.hidden = true;
+      if (deferredPrompt) {
+        deferredPrompt.prompt();
+        await deferredPrompt.userChoice;
+        deferredPrompt = null;
+      }
+    });
+
+    // Daftarkan service worker sederhana
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register(URL.createObjectURL(new Blob([`
+        self.addEventListener('install', e => self.skipWaiting());
+        self.addEventListener('fetch', e => {});
+      `], { type: 'text/javascript' })));
+    }
+  </script>
+
+</body>
+</html>
