@@ -1,76 +1,204 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tambahkan ke Home Screen</title>
-
-  <!-- Manifest PWA -->
-  <link rel="manifest" href="data:application/json,{
-    &quot;name&quot;:&quot;Demo PWA&quot;,
-    &quot;short_name&quot;:&quot;Demo&quot;,
-    &quot;start_url&quot;:&quot;.&quot;,
-    &quot;display&quot;:&quot;standalone&quot;,
-    &quot;background_color&quot;:&quot;#ffffff&quot;,
-    &quot;theme_color&quot;:&quot;#4A90E2&quot;,
-    &quot;icons&quot;:[
-      {&quot;src&quot;:&quot;https://via.placeholder.com/192&quot;,&quot;sizes&quot;:&quot;192x192&quot;,&quot;type&quot;:&quot;image/png&quot;},
-      {&quot;src&quot;:&quot;https://via.placeholder.com/512&quot;,&quot;sizes&quot;:&quot;512x512&quot;,&quot;type&quot;:&quot;image/png&quot;}
-    ]
-  }">
-  
-  <style>
-    body {
-      font-family: sans-serif;
-      text-align: center;
-      padding-top: 100px;
-    }
-    button {
-      padding: 10px 20px;
-      font-size: 16px;
-      background: #4A90E2;
-      color: white;
-      border: none;
-      border-radius: 6px;
-      cursor: pointer;
-    }
-    button:hover {
-      background: #357ABD;
-    }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Contoh Add to Home Screen</title>
+<style>
+  :root{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;margin:0;padding:0}
+  body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#f5f7fb}
+  .card{background:#fff;padding:24px;border-radius:12px;box-shadow:0 6px 18px rgba(20,30,60,.08);max-width:520px;width:94%;text-align:center}
+  h1{margin:0 0 8px;font-size:20px}
+  p{margin:0 0 16px;color:#555}
+  /* banner (bottom) for Android / desktop */
+  .install-banner{position:fixed;left:12px;right:12px;bottom:16px;background:#0b74de;color:#fff;padding:12px 14px;border-radius:12px;display:flex;gap:12px;align-items:center;box-shadow:0 8px 24px rgba(11,116,222,.18);transform:translateY(120%);transition:transform .28s cubic-bezier(.2,.9,.3,1)}
+  .install-banner.show{transform:translateY(0)}
+  .install-banner .text{flex:1}
+  .install-banner button{background:rgba(255,255,255,.12);border:0;color:#fff;padding:8px 12px;border-radius:8px;cursor:pointer;font-weight:600}
+  .install-banner .close{background:transparent;border:1px solid rgba(255,255,255,.18);padding:6px 8px}
+  /* iOS overlay instructions */
+  .ios-overlay{position:fixed;inset:0;background:rgba(4,6,12,.45);display:flex;align-items:flex-end;justify-content:center;padding:20px;transition:opacity .2s;opacity:0;pointer-events:none}
+  .ios-overlay.show{opacity:1;pointer-events:auto}
+  .ios-card{background:#fff;padding:16px;border-radius:12px;width:100%;max-width:520px;color:#111}
+  .ios-card h3{margin:0 0 8px}
+  .ios-card p{margin:0 0 12px;color:#333}
+  .iu-steps{display:flex;gap:8px;align-items:center}
+  .iu-steps .bubble{background:#f1f5f9;padding:8px;border-radius:10px;flex:0 0 auto;min-width:48px;text-align:center}
+  .ios-card .ok{margin-top:12px;display:flex;justify-content:flex-end}
+  .ios-card button{padding:8px 12px;border-radius:8px;border:0;background:#0b74de;color:#fff;cursor:pointer}
+  /* small helper */
+  .muted{color:#7b8794;font-size:13px}
+</style>
 </head>
 <body>
 
-  <h2>📱 Tambahkan Website Ini ke Home Screen</h2>
-  <button id="addBtn" hidden>Tambahkan ke Home Screen</button>
+<div class="card" role="region" aria-label="Demo">
+  <h1>Halo — coba simpan situs ini</h1>
+  <p>Contoh sederhana: tampilkan prompt "Add to Home Screen" yang bekerja di Android, desktop Chromium, dan iOS.</p>
+  <p class="muted">Coba buka di Chrome Android atau Safari iOS untuk melihat perbedaan.</p>
+</div>
 
-  <script>
-    let deferredPrompt;
-    const addBtn = document.getElementById('addBtn');
+<!-- Install banner (Android / desktop) -->
+<div id="installBanner" class="install-banner" role="dialog" aria-live="polite" aria-hidden="true">
+  <div class="text">
+    <strong>Pasang aplikasi ini</strong>
+    <div style="font-size:13px;opacity:.95">Tambahkan ke layar utama untuk akses cepat.</div>
+  </div>
+  <div style="display:flex;gap:8px;align-items:center">
+    <button id="installBtn">Pasang</button>
+    <button id="dismissBtn" class="close" aria-label="Tutup">Tutup</button>
+  </div>
+</div>
 
-    window.addEventListener('beforeinstallprompt', (e) => {
-      e.preventDefault();
-      deferredPrompt = e;
-      addBtn.hidden = false;
-    });
+<!-- iOS overlay -->
+<div id="iosOverlay" class="ios-overlay" aria-hidden="true">
+  <div class="ios-card" role="dialog" aria-label="Instruksi Tambah ke Layar Utama">
+    <h3>Tambahkan ke Layar Utama</h3>
+    <p>Untuk menyimpan situs ini di iPhone / iPad, ikuti langkah berikut:</p>
+    <div class="iu-steps">
+      <div class="bubble" style="flex-direction:column">
+        <div style="font-weight:600">1</div>
+        <div style="font-size:12px">Tekan</div>
+      </div>
+      <div style="flex:1">
+        <div style="font-weight:600">Ketuk tombol <em>Share</em> (ikon kotak + panah)</div>
+        <div style="font-size:13px;color:#555">Lalu pilih <strong>Add to Home Screen</strong></div>
+      </div>
+    </div>
+    <div class="ok">
+      <button id="iosGotIt">Mengerti</button>
+    </div>
+  </div>
+</div>
 
-    addBtn.addEventListener('click', async () => {
-      addBtn.hidden = true;
-      if (deferredPrompt) {
-        deferredPrompt.prompt();
-        await deferredPrompt.userChoice;
-        deferredPrompt = null;
-      }
-    });
+<script>
+/*
+  Simple Add-to-Home-Screen helper:
+  - Listens for 'beforeinstallprompt' (Android/Chromium).
+  - Shows custom banner and calls prompt() when user clicks install.
+  - For iOS (Safari), shows overlay with manual instructions.
+  - Avoid showing if already installed or user dismissed.
+*/
 
-    // Daftarkan service worker sederhana
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register(URL.createObjectURL(new Blob([`
-        self.addEventListener('install', e => self.skipWaiting());
-        self.addEventListener('fetch', e => {});
-      `], { type: 'text/javascript' })));
+(function(){
+  const STORAGE_KEY = 'a2hs_dismissed_v1';
+  const BANNER = document.getElementById('installBanner');
+  const INSTALL_BTN = document.getElementById('installBtn');
+  const DISMISS_BTN = document.getElementById('dismissBtn');
+  const IOS_OVERLAY = document.getElementById('iosOverlay');
+  const IOS_OK = document.getElementById('iosGotIt');
+
+  let deferredPrompt = null;
+
+  // Utility: detect iOS
+  const isIos = (() => {
+    return /iphone|ipad|ipod/i.test(navigator.userAgent) && !window.MSStream;
+  })();
+
+  // Detect if app already installed (standalone)
+  const isInStandalone = (() => {
+    return (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches)
+      || (window.navigator.standalone === true);
+  })();
+
+  // Don't bother if already installed
+  if (isInStandalone) {
+    // optionally hide anything or mark as installed
+    console.log('App already installed / running standalone — A2HS not shown.');
+    return;
+  }
+
+  // Only show once (unless localStorage cleared)
+  const dismissed = localStorage.getItem(STORAGE_KEY);
+
+  // Listen for beforeinstallprompt (Chrome / Edge / other Chromium)
+  window.addEventListener('beforeinstallprompt', (e) => {
+    // Prevent automatic mini-infobar; we'll show our custom banner
+    e.preventDefault();
+    deferredPrompt = e;
+
+    // If user dismissed previously, don't show again
+    if (dismissed) return;
+
+    showInstallBanner();
+  });
+
+  // If no beforeinstallprompt event but it's iOS Safari, show manual instructions
+  function maybeShowIosOverlay() {
+    // Safari on iOS doesn't fire beforeinstallprompt; so show overlay
+    if (isIos && !dismissed) {
+      // For iOS 13+ sometimes display-mode check is insufficient, still show instructions.
+      IOS_OVERLAY.classList.add('show');
+      IOS_OVERLAY.setAttribute('aria-hidden','false');
     }
-  </script>
+  }
+
+  // install banner controls
+  function showInstallBanner(){
+    BANNER.classList.add('show');
+    BANNER.setAttribute('aria-hidden','false');
+  }
+  function hideInstallBanner(){
+    BANNER.classList.remove('show');
+    BANNER.setAttribute('aria-hidden','true');
+  }
+
+  INSTALL_BTN.addEventListener('click', async () => {
+    if (!deferredPrompt) {
+      // No beforeinstallprompt — maybe it's desktop/browser without prompt -> show manual help
+      hideInstallBanner();
+      maybeShowIosOverlay();
+      return;
+    }
+    // Show native prompt
+    deferredPrompt.prompt();
+    const choice = await deferredPrompt.userChoice;
+    // choice.outcome is "accepted" or "dismissed"
+    if (choice.outcome === 'accepted') {
+      console.log('User accepted the A2HS prompt');
+      // mark as installed/dismissed to avoid nagging
+      localStorage.setItem(STORAGE_KEY, 'accepted');
+      hideInstallBanner();
+    } else {
+      console.log('User dismissed the A2HS prompt');
+      // optionally keep showing later; store a dismiss timestamp to avoid immediate re-show
+      localStorage.setItem(STORAGE_KEY, 'dismissed');
+      hideInstallBanner();
+    }
+    deferredPrompt = null;
+  });
+
+  DISMISS_BTN.addEventListener('click', () => {
+    hideInstallBanner();
+    localStorage.setItem(STORAGE_KEY, 'dismissed');
+  });
+
+  // iOS overlay control
+  IOS_OK.addEventListener('click', () => {
+    IOS_OVERLAY.classList.remove('show');
+    IOS_OVERLAY.setAttribute('aria-hidden','true');
+    localStorage.setItem(STORAGE_KEY, 'dismissed');
+  });
+
+  // If no beforeinstallprompt appears within N seconds and it's iOS -> show instructions.
+  // (No waiting in background — we do it immediately here but with small delay to allow event to fire)
+  setTimeout(() => {
+    // If we already have a deferredPrompt, banner will be shown by event handler.
+    if (!deferredPrompt) {
+      maybeShowIosOverlay();
+    }
+  }, 700);
+
+  // Optional: handle appinstalled event (user installed using browser UI)
+  window.addEventListener('appinstalled', () => {
+    console.log('PWA installed (appinstalled event)');
+    localStorage.setItem(STORAGE_KEY, 'installed');
+    hideInstallBanner();
+    IOS_OVERLAY.classList.remove('show');
+  });
+
+})();
+</script>
 
 </body>
 </html>
